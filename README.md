@@ -4,26 +4,26 @@
 
   [Revisions](#revisions)
 # I. [About Code For Nashville](#about-code-for-nashville)
-  [Code of Conduct](#code-of-conduct)
-  [Vision](#vision)
-  [Mission](#mission)
-  [Values](#values)
-  [Goals](#goals)
+  - [Code of Conduct](#code-of-conduct)
+  - [Vision](#vision)
+  - [Mission](#mission)
+  - [Values](#values)
+  - [Goals](#goals)
 # II. [Meetings](#meetings)
-  [Agenda](#agenda)
-  [Cadence](#cadence)
-  [Guidelines](#guidlnes)
-  [Meeting Types](#meeting-types)
-  [Tracking Effectiveness](#tracking-effectiveness)
+  - [Agenda](#agenda)
+  - [Cadence](#cadence)
+  - [Guidelines](#guidlnes)
+  - [Meeting Types](#meeting-types)
+  - [Tracking Effectiveness](#tracking-effectiveness)
 # III. [Leadership](#leadership)
-  [Roles](#roles) - who does what and what are the titles involved
-  [Elections](#elections) - how we decide who gets to step up among competing parties
-  [Leadership Development](#leadership-development) - how we get more leadership in here
-  [Project Pipeline](#project-pipeline) - how people engage with projects
+  - [Roles](#roles) - who does what and what are the titles involved
+  - [Elections](#elections) - how we decide who gets to step up among competing parties
+  - [Leadership Development](#leadership-development) - how we get more leadership in here
+  - [Project Pipeline](#project-pipeline) - how people engage with projects
 # IV.   [Projects](#projects)
-  [Guidelines](#guidelines)
-  [Code for Nashville Support](#code-for-nashville-support)
-  [Volunteer Recognition](#volunteer-recognition)
+  - [Guidelines](#guidelines)
+  - [Code for Nashville Support](#code-for-nashville-support)
+  - [Volunteer Recognition](#volunteer-recognition)
 ----------
 # Preface
 
