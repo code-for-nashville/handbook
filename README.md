@@ -3,7 +3,7 @@
 # i. [Preface](#preface)
 
   [Revisions](#revisions)
-# I. [About Code For Nashville]{#about-code-for-nashville}
+# I. [About Code For Nashville](#about-code-for-nashville)
   [Code of Conduct](#code-of-conduct)
   [Vision](#vision)
   [Mission](#mission)
