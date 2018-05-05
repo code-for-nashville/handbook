@@ -24,6 +24,7 @@
   - [Guidelines](#guidelines)
   - [Code for Nashville Support](#code-for-nashville-support)
   - [Volunteer Recognition](#volunteer-recognition)
+
 ----------
 # Preface
 
