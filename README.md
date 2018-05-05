@@ -1,28 +1,29 @@
 # Code For Nashville Handbook (2018)
 
-# i. [Preface](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=268279673690156613101020&h2=Preface)
-  [Revisions](/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=479471248526318440789736&h2=Revisions)
-# I. [About Code For Nashville](/doc/Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=671967206786608181155890&h2=About)
-  [Code of Conduct](/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=370520082507732716187402&h2=Code-of-Conduct)
-  [V](https://paper.dropbox.com/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=261699486822913649518038&h2=Vision)[ision](https://paper.dropbox.com/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=261699486822913649518038&h2=Vision)
-  [Mission](https://paper.dropbox.com/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=476047773740993445342337&h2=Mission)
-  [Values](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=684702348063724870711266&h2=Values)
-  [Goals](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=606582325609808002115990&h2=Goals)
-# II. [Meetings](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=684593987708649493842350&h2=Meetings)
-  [Agenda](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=453622769259580525698832&h2=Agenda)
-  [Cadence](/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=822614867949464675557737&h2=Cadence)
-  [Guidelines](/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=595795516799825114905149&h2=Guidelines)
-  [Meeting Types](/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=096070910390062724504726&h2=Meeting-Types)
-  [Tracking](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=670392031557698908331954&h2=Tracking-Effectiveness) [E](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=670392031557698908331954&h2=Tracking-Effectiveness)[ffectiveness](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=670392031557698908331954&h2=Tracking-Effectiveness)
-# III. [Leadership](/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=449850575948370839690569&h2=Leadership)
-  [Roles](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=600879554776385779988697&h2=Roles) - who does what and what are the titles involved
-  [Elections](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=408333166907068828519792&h2=Elections) - how we decide who gets to step up among competing parties
-  [Leadership Development -](/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=774755917032526625898712&h2=Leadership-Development) how we get more leadership in here
-  [Project Pipeline](/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=861770662950292157599584&h2=Project-Pipeline) - how people engage with projects
-# IV.   [Projects](/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=308022671477013450666233&h2=Projects)
-  [Guidelines](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=109848509463459397664837&h2=Guidelines)
-  [Code for Nashville Support](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=066492395359223750963676&h2=Code-for-Nashville-Support)
-  [Volunteer Recognition](https://paper.dropbox.com/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=483981035818605465130905&h2=Volunteer-Recognition)
+# i. [Preface](#preface)
+
+  [Revisions](#revisions)
+# I. [About Code For Nashville]{#about-code-for-nashville}
+  [Code of Conduct](#code-of-conduct)
+  [Vision](#vision)
+  [Mission](#mission)
+  [Values](#values)
+  [Goals](#goals)
+# II. [Meetings](#meetings)
+  [Agenda](#agenda)
+  [Cadence](#cadence)
+  [Guidelines](#guidlnes)
+  [Meeting Types](#meeting-types)
+  [Tracking Effectiveness](#tracking-effectiveness)
+# III. [Leadership](#leadership)
+  [Roles](#roles) - who does what and what are the titles involved
+  [Elections](#elections) - how we decide who gets to step up among competing parties
+  [Leadership Development](#leadership-development) - how we get more leadership in here
+  [Project Pipeline](#project-pipeline) - how people engage with projects
+# IV.   [Projects](#projects)
+  [Guidelines](#guidelines)
+  [Code for Nashville Support](#code-for-nashville-support)
+  [Volunteer Recognition](#volunteer-recognition)
 ----------
 # Preface
 
@@ -57,7 +58,7 @@ To network and support a community of civic hackers and stakeholders to increase
 - **Open****ness** in all our values, especially accountability and inclusion
 ## Goals
 
-Goals are tracked year-over-year in a separate [document](/doc/Goals-NYmsnCgMF3tcw7BpThRnR). The goals document will follow the same [Revisions](/doc/Code-For-Nashville-Handbook-2018-7IHytoYmTpYzeuxFXlBCB#:uid=479471248526318440789736&h2=Revisions) guidelines as this Handbook (e.g. suggesting, editing, announcing drafts, publication, and archival). In addition, goals are reviewed by the officers at least once a year (in Q1).
+Goals are tracked year-over-year in a separate [document](/goals). The goals document will follow the same [Revisions](#revisions) guidelines as this Handbook (e.g. suggesting, editing, announcing drafts, publication, and archival). In addition, goals are reviewed by the officers at least once a year (in Q1).
 
 # Meetings
 ## Agenda
@@ -91,9 +92,10 @@ Goals are tracked year-over-year in a separate [document](/doc/Goals-NYmsnCgMF3t
   - Follow up on action items if needed
 - Smaller project night (hack night but must bring a project, after reflection/leadership night)
 - Quarterly - Mixers with other interest groups
+
 ## Guidelines
 
-Anyone that adheres to our [Code of Conduct](/doc/2018-Code-For-Nashville-Handbook-7IHytoYmTpYzeuxFXlBCB#:uid=370520082507732716187402&h2=Code-of-Conduct) can attend and enjoy our events.  Everything we do is in the open it is the responsibility of attendees and project creators to respect and be aware of this.
+Anyone that adheres to our [Code of Conduct](https://github.com/code-for-nashville/codeofconduct) can attend and enjoy our events.  Everything we do is in the open it is the responsibility of attendees and project creators to respect and be aware of this.
 
 ## Meeting Types
 
@@ -247,7 +249,7 @@ The Code for Nashville community is small enough that core team members can help
 
 Code for America [sponsors qualified projects by covering their Heroku bills](http://brigade.codeforamerica.org/resources/software/heroku) - contact one of the Code for Nashville organizers and we can help with applying for sponsorship.
 
-Visit [How do I build…](/doc/How-do-I-build-rfzR5U3niexT93MOLFe3t) for some simple, free resources to deploy your application.
+Visit [How do I build…](/projects/how-do-i-build) for some simple, free resources to deploy your application.
 
 ## Volunteer Recognition
 
