@@ -58,7 +58,8 @@ To network and support a community of civic hackers and stakeholders to increase
 - **Inclusion** in roles, leadership, opportunities, and recognition
 - **Excellence** in communication, organization, planning, and delivery
 - **Accountability** to each other, our community, and all stakeholders
-- **Open****ness** in all our values, especially accountability and inclusion
+- **_Open_-ness** in all our values, especially accountability and inclusion
+
 ## Goals
 
 Goals are tracked year-over-year in a separate [document](/goals/2018). The goals document will follow the same [Revisions](#revisions) guidelines as this Handbook (e.g. suggesting, editing, announcing drafts, publication, and archival). In addition, goals are reviewed by the officers at least once a year (in Q1).
