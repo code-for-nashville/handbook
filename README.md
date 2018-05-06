@@ -216,6 +216,7 @@ The Community Outreach and Diversity Chair actively works to build relationships
 User-centered project should start with the three “P”s:
 
 **Problem**
+
 Describe your project as a problem or area you want to address, not the way in which you’ll address it. 
 
 
@@ -226,20 +227,22 @@ Describe your project as a problem or area you want to address, not the way in w
 Starting with an app idea tends to lead to products without a clear goal, beyond their own existence.  Phrasing your project as a problem often forces you to do some initial research and reach out to community or civic partners to discover what the real issues are.   As illustrated above, the problem doesn’t even have to be specific.  Starting out with an area of interest, an open mind, and a willingness to ask questions from civic and government partners can be just as good.
 
 **Partner**
+
 A government or local non-profit partner is critical.  Partners validate or provide problems to solve, and guide you towards impactful solutions.
 
-*Example***:** To learn more about recycling issues, I’m reaching out to [Metro Public Works](http://www.nashville.gov/Public-Works.aspx), the department responsible for running Nashville’s curbside pickup recycling program.  I’m also reaching out to [Environmental Education TN](http://eeintennessee.org/), who help coordinate some local recycling education programs.
+*Example*: To learn more about recycling issues, I’m reaching out to [Metro Public Works](http://www.nashville.gov/Public-Works.aspx), the department responsible for running Nashville’s curbside pickup recycling program.  I’m also reaching out to [Environmental Education TN](http://eeintennessee.org/), who help coordinate some local recycling education programs.
 
 Some ways to connect:
 
 
 1. Join up - Seriously consider participating in the communities dedicated to your problem area, if they exist. It’s a great way to learn and help without building a technical solution, and a request for a partnership from a participant is a lot more powerful than from a third party.
-2. Attend a public government meeting - These are opportunities to meet decision-makers face to face, and learn what problems they’re working on. **Example**: [Traffic and Parking Commision meeting.](http://www.nashville.gov/Government/Boards-and-Committees/Committee-Information/ID/100/Traffic-and-Parking-Commission.aspx)
+2. Attend a public government meeting - These are opportunities to meet decision-makers face to face, and learn what problems they’re working on. *Example*: [Traffic and Parking Commision meeting.](http://www.nashville.gov/Government/Boards-and-Committees/Committee-Information/ID/100/Traffic-and-Parking-Commission.aspx)
 3. Email, direct message - Explain the problem you’re interested in, the team you have interested in addressing the problem, and how a potential partner can help.  Members of governments and non-profits have been receptive to being “cold-called” in the past.
 
 A small warning: don’t promise anything you’re not committed to delivering. Remember to promise less than you think you can accomplish.  We expect to accomplish great things, but technology is always harder than we think it is, especially when it’s being created by volunteers.
 
 **Prior Art**
+
 Google for existing solutions before you write any code.  As your understanding of the problem increases, google again.
 
 *Example*: Metro Nashville has an existing [email and text notification service for curbside pickup](http://mpw.nashville.gov/IMS/cans/subscribe.aspx?ServiceAddress=1001+ARGYLE+AVE&city=NASHVILLE&zipcode=37203&trashday=0001000&recycleweek=01000&recycleday=0001000&troute=9401&rroute=2407&brusharea=7&customerid=109550).
@@ -247,6 +250,7 @@ Google for existing solutions before you write any code.  As your understanding 
 Expect a handful of existing open source or enterprise projects that touch on your domain. Existing projects can be forked, provide lessons on what mistakes to avoid, inspire new approaches, and help you learn more about the domain.  If a possible solution to your problem already exists, have an honest conversation within your team and with your partners about it.
 
 **Teams**
+
 Assemble a group of 3-5 people to work on your project.
 
 1. Lead/Point of Contact
