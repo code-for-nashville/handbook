@@ -138,7 +138,7 @@ Only the role of captain is exclusive. All other roles can be duplicated among s
   - Hold leadership roles accountable via consistent, collaborative follow up on projects/responsibilities
   - Apply structure of Meeting Agenda to meetup, keeps time
   - Maintain 10k foot view of group’s project workload, checks in on teams (“need anything?”)
-- Community Outreach and Diversity Chair
+- __Community Outreach and Diversity Chair__
   - Seek opportunities to engage with diverse communities in Nashville
   - Facilitate a pipeline of partners for Code For Nashville
   - Cultivate relationships with non profits and governmental agencies
@@ -149,7 +149,7 @@ Only the role of captain is exclusive. All other roles can be duplicated among s
   - Recognize and uplift project leadership
   - Work directly with project leadership and team to plan new projects, strategize about existing projects
   - Funnel relevant CfA Fellowship and Brigades apps to Brigade members for redeployment opportunities
-- Treasurer
+- __Treasurer__
   - Handle cashflow, bank account, credit cards, list of paid and free service accounts in use by the group
   - Plan and track event budgets, project budgets
   - Organize and distribute resources to participants
