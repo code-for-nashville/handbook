@@ -143,7 +143,7 @@ Only the role of captain is exclusive. All other roles can be duplicated among s
   - Facilitate a pipeline of partners for Code For Nashville
   - Cultivate relationships with non profits and governmental agencies
   - Organize networking, community, outreach, tech events within the group and between the group and others
-- [Delivery](https://docs.google.com/document/d/1SAGXWKPqDXwHHSVxXv_rzJRCjLTSqgjyWN6vcGOvLcY/edit#heading=h.l1lohabzpeqg) [****](https://docs.google.com/document/d/1SAGXWKPqDXwHHSVxXv_rzJRCjLTSqgjyWN6vcGOvLcY/edit#heading=h.l1lohabzpeqg)[Lead](https://docs.google.com/document/d/1SAGXWKPqDXwHHSVxXv_rzJRCjLTSqgjyWN6vcGOvLcY/edit#heading=h.l1lohabzpeqg)
+- [Delivery Lead](https://docs.google.com/document/d/1SAGXWKPqDXwHHSVxXv_rzJRCjLTSqgjyWN6vcGOvLcY/edit#heading=h.l1lohabzpeqg)
   - Maintain active knowledge (3k foot view) of all projects being worked on in local Brigade
   - Connect volunteers to available project work
   - Recognize and uplift project leadership
