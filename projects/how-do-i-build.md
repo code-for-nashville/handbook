@@ -19,7 +19,7 @@ Cloud providers like [AWS](http://aws.amazon.com/), [Google Cloud](https://cloud
 
 ## a mobile app
 
-**You found a** 🐛! [React Native](https://github.com/facebook/react-native) seems promising, but none of us know what we’re doing with mobile development, and we’d love your help filling this section in.  Comment if you’re interested!
+[React Native](https://github.com/facebook/react-native) is a framework for writing native apps using Javascript that uses the same design as React. Rather than rendering html like you would with a mobile web app or hybrid app, React Native provides an api for creating and managing native views in Java and Objective - C. If you are interested in a hybrid app, you can use a framework like [Phone Gap](https://phonegap.com/) and [Ionic](https://ionicframework.com/). With a hybrid framework, your app will be rendered using html using html and css. Native functionality is accessible using hooks provided by the framework.
 
-[ ] 
+
 
