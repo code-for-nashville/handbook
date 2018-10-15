@@ -1,6 +1,6 @@
-#!/usr/bin/env python2
-from SimpleHTTPServer import SimpleHTTPRequestHandler
-import BaseHTTPServer
+#!/usr/bin/env python3
+from http.server import SimpleHTTPRequestHandler
+import http.server
 
 class CORSRequestHandler (SimpleHTTPRequestHandler):
     def end_headers (self):
@@ -8,4 +8,4 @@ class CORSRequestHandler (SimpleHTTPRequestHandler):
         SimpleHTTPRequestHandler.end_headers(self)
 
 if __name__ == '__main__':
-    BaseHTTPServer.test(CORSRequestHandler, BaseHTTPServer.HTTPServer)
+    http.server.test(CORSRequestHandler, http.server.HTTPServer)
