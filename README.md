@@ -22,7 +22,7 @@
   - [Leadership Development](#leadership-development) - how we get more leadership in here
   - [Project Pipeline](#project-pipeline) - how people engage with projects
 # IV.   [Projects](#projects)
-  - [Guidelines](##guidelines-1)
+  - [Guidelines](#guidelines-1)
   - [Code for Nashville Support](#code-for-nashville-support)
   - [Volunteer Recognition](#volunteer-recognition)
 
