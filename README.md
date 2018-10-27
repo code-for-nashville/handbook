@@ -42,7 +42,7 @@ Code For Nashville is a [Brigade](https://brigade.codeforamerica.org/) of [Code 
 
 ## Code of Conduct
 
-All participants are expected to adhere to the [Code for Nashville Code of Conduct](https://github.com/code-for-nashville/codeofconduct).
+All participants are expected to adhere to the [Code for Nashville Code of Conduct](http://www.codefornashville.org/code-of-conduct).
 
 ## Vision
 
